@@ -6,7 +6,7 @@
 ## Step
 
 1.  sort?
-2.  Stack deqeue dict
+2.  Stack , deqeue , dict , nth Tree
 3.  Max(),Min()
 
 - 基础技巧：分治、二分、贪心
